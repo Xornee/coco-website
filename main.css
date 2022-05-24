@@ -1,0 +1,23 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+  
+  /* Add some content at the bottom of the video/page */
+.Wrapper {
+    position: fixed;
+    width: 400px;
+    left: calc(50% - 220px);
+    height: 200px;
+    top: calc(50% - 200px);
+    padding-top: 50px;
+    text-align: center;
+}
+.coco-mint{
+  background-color: black;
+  color: white;
+  padding: 20px 0;
+}
